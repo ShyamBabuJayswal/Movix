@@ -1,15 +1,8 @@
 
 
-import './App.css'
-
-function App() {
-  
-
+const App = () => {
   return (
-    <div className='App'>
-      App
-      <h1>fvjvcxvkjcxjvcvfdjjddjfjdfjsj</h1>
-    </div>
+    <div>App</div>
   )
 }
 
